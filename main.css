@@ -107,7 +107,7 @@ section {
 @media screen and (min-width: 1300px) {
   .stats-preview-card-img {
     width: 40vw;
-    height: 33rem;
+    height: 30rem;
     object-fit: contain;
     background: linear-gradient(
         hsla(276, 89%, 24%, 0.5),
@@ -132,7 +132,7 @@ section {
   }
   .stats-preview-card-text {
     width: 45vw;
-    height: 33rem;
+    height: 30rem;
     margin: 0;
     text-align: start;
     padding: 5rem;
@@ -153,6 +153,6 @@ section {
   }
   .stats {
     justify-content: flex-start;
-    margin-top: 2.5rem;
+    margin-top: 1rem;
   }
 }
